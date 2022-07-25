@@ -1,0 +1,71 @@
+p{
+  line-height: 2;
+  margin-bottom: 0;
+  margin: auto;
+
+}
+
+/* top of the website */
+#top{
+  text-align: center;
+}
+.container-fluid{
+  background-color: #3E7C17;
+  padding: 0% 15%;
+
+}
+/* navbar css */
+.navbar{
+  padding: 3rem 0 3rem;
+}
+.nav-item{
+  font-size: 1.25rem;
+  padding: 0 5px;
+}
+.navbar-nav{
+  margin-left: auto;
+}
+/* custom backdrop for top of website */
+.top-logo{
+  height: 600px;
+  position: static;
+}
+
+
+/* bd1 */
+#bd1{
+  text-align: center;
+  background-color: white;
+}
+.carousel-item{
+  padding:  7% 15%;
+}
+
+/* bd2 */
+#bd2{
+  text-align: center;
+  background-color: #3E7C17;
+  padding: 10% 15%;
+}
+.verse{
+  width:90%;
+}
+.verse-box-1{
+  padding: 0;
+}
+.fathers-picture{
+  border-radius: 100%;
+}
+.verse-box-2{
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: -20%;
+}
+
+/* footer */
+#footer{
+  background-color: white;
+  padding: 7% 15%;
+  text-align: center;
+}
